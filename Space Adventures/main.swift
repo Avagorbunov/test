@@ -17,7 +17,7 @@ print ("There are \(numberOfPlanets) planets to explore.")
 print ("You are currenly on Earth, which has a circuference of \(diametrOfEarth) miles.")
 print ("What is your name?")
 
-//let nonOptional: String = "Str"
+let nonOptional: String = "Str"
 let username: String? = readLine ()
 
 if let name = username {
