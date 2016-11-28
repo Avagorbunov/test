@@ -11,12 +11,12 @@ var str = "Hello, playground"
 var a = 3
 
 if (a < 10) {
-    print ("верно")
+    print ("верно;")
 
     
 } else {
-    print("не верно")
+    print("не верно;")
 }
 
 
-print("Hello Piter")
+print("Hello Piter;")
